@@ -2,9 +2,10 @@
 To develop an application for user authentication and document sharing for student using mysql workbench 8.0.45
 A student portal built with **Flask + MySQL** featuring user authentication, profile management, and grade viewing.
 
-<img width="571" height="725" alt="Image" src="https://github.com/user-attachments/assets/78bec28f-cd8c-43c6-bf6f-1c9c61312158" />
 
 ![Image](https://github.com/user-attachments/assets/2231f166-6956-4686-8740-5645a9c307eb)
+
+<img width="542" height="647" alt="Image" src="https://github.com/user-attachments/assets/cbffe117-bd70-42d1-be47-1a55ee645fb6" />
 
 ![Image](https://github.com/user-attachments/assets/72a262fc-783d-41e6-b827-6a002672278a)
 

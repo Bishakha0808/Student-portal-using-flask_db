@@ -1,7 +1,15 @@
 # Student-portal-using-flask_db
 To develop an application for user authentication and document sharing for student using mysql workbench 8.0.45
 A student portal built with **Flask + MySQL** featuring user authentication, profile management, and grade viewing.
-![Image]=([Screenshot 2026-03-06 134115.png](https://github.com/Bishakha0808/Student-portal-using-flask_db/blob/main/Screenshot%202026-03-06%20134115.png))
+
+<img width="943" height="662" alt="Image" src="https://github.com/user-attachments/assets/f078bdd3-9807-4e85-b75a-0aa0344dfbab" />
+
+![Image](https://github.com/user-attachments/assets/2231f166-6956-4686-8740-5645a9c307eb)
+
+![Image](https://github.com/user-attachments/assets/72a262fc-783d-41e6-b827-6a002672278a)
+
+<img width="1600" height="824" alt="Image" src="https://github.com/user-attachments/assets/5ec8a0dc-7d32-4bb1-ad8f-2c43793e661f" />
+
 
 ---
 

@@ -1,0 +1,53 @@
+/* ── Global ──────────────────────────────────────── */
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background-color: #f0f2f5;
+}
+
+/* ── Card polish ─────────────────────────────────── */
+.card {
+    border: none;
+    border-radius: 14px;
+}
+
+.card-header {
+    border-radius: 14px 14px 0 0 !important;
+    font-size: 0.95rem;
+    letter-spacing: 0.3px;
+}
+
+/* ── Navbar shadow ───────────────────────────────── */
+.navbar {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.18);
+}
+
+/* ── Portal icon on auth pages ───────────────────── */
+.portal-icon {
+    font-size: 2.8rem;
+    line-height: 1;
+}
+
+/* ── Grade badge on dashboard ────────────────────── */
+.grade-badge {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #198754, #20c997);
+    color: #fff;
+    font-size: 2.6rem;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 16px rgba(25, 135, 84, 0.35);
+}
+
+/* ── Button hover lift ───────────────────────────── */
+.btn {
+    transition: transform 0.12s ease, box-shadow 0.12s ease;
+}
+
+.btn:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.12);
+}
